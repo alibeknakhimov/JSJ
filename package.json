@@ -11,6 +11,7 @@
   "dependencies": {
     "@picovoice/porcupine-node": "^3.0.2",
     "@picovoice/pvrecorder-node": "^1.2.0",
+    "js-levenshtein": "^1.1.6",
     "mic-recorder": "^4.9.0",
     "node-microphone": "^0.1.6",
     "node-record-lpcm16": "^1.0.1",
